@@ -3,5 +3,7 @@
 	"keyTwo": "Qordoba is named after the city of Cordoba, Spain",
 	"keyThree": "Which was the first city in the world with a library",
 	"finalKey": "That had multiple language copies of the same book!",
-	"extra": "Extra read all about it!"
+	"extra": "Extra read all about it!",
+	"More": "Strings for testing",
+	"superMore": "even more strings"
 }
